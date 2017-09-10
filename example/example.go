@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/rafalgolarz/blog-examples/timestamp"
+	"github.com/rafalgolarz/timestamp"
 )
 
 func main() {
